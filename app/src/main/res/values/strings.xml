@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StockApp</string>
+    <string name="hello">hello</string>
+    <string name="name">Name :</string>
+    <string name="value">Value :</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="inputHint">add stock tckr</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

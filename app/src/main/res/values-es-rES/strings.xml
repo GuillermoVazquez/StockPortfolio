@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StockApp</string>
+    <string name="hello">hola</string>
+    <string name="name">Titulo :</string>
+    <string name="value">Valor :</string>
+    <string name="add">Anadir</string>
+    <string name="cancel">Cancela</string>
+    <string name="inputHint">anadir valores</string>
+</resources>
